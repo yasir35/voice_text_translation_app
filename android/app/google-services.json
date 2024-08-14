@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196392488329",
+    "project_id": "voice-and-text-translati-4665c",
+    "storage_bucket": "voice-and-text-translati-4665c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196392488329:android:e103fb35ada166f61fa558",
+        "android_client_info": {
+          "package_name": "com.example.voice_text_translation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzenJx8yLQ1dQY5JvQoM6MgcfOrOPH0hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
